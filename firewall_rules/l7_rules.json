@@ -1,0 +1,7 @@
+[
+    {
+        "policy": "deny",
+        "type": "blockedCountries",
+        "value": ["CN", "NG", "KP", "RO", "RU"]
+    }
+]

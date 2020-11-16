@@ -1,0 +1,12 @@
+[
+    {
+        "comment": "test",
+        "policy": "allow",
+        "protocol": "tcp",
+        "destPort": "443",
+        "destCidr": "x.x.x.x/24",
+        "srcPort": "Any",
+        "srcCidr": "Any",
+        "syslogEnabled": "false"
+    }
+]
