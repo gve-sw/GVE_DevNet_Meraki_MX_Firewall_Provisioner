@@ -2,13 +2,6 @@
 prototype code to provision L3 and L7 firewall rules to selected Meraki networks
 
 
-
-
-
-
-| :exclamation:  External repository notice   |
-|:---------------------------|
-| This repository is now mirrored at "PLEASE UPDATE HERE - add External repo URL after code review is completed"  Please inform a https://github.com/gve-sw/ organization admin of any changes to mirror them to the external repo |
 ## Contacts
 * Jorge Banegas
 
